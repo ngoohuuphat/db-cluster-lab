@@ -1,0 +1,6 @@
+# Keeps local state and editor metadata out of the Patroni image build context.
+.env
+.git
+.idea
+.vscode
+README.md
